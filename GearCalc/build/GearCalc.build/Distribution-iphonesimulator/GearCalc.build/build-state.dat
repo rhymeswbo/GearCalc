@@ -1,0 +1,952 @@
+TGearCalc
+v7
+r0
+t341867579.096054
+cCheck dependencies
+cProcessInfoPlistFile /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/Info.plist GearCalc-Info.plist
+cCompileXIB /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/MainWindow.xib
+cCompileXIB /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/SecondView.xib
+cCompileXIB /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/FirstView.xib
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/DSC_0284-1.JPG DSC_0284-1.JPG
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/gu_logo.png gu_logo.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/rudyProjectLogo.png rudyProjectLogo.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/parlee_logo.png parlee_logo.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/mouse.png mouse.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/blackdog.png blackdog.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/podium.png podium.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/icon114.png images/icon114.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/icon72.png images/icon72.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/icon57.png images/icon57.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/wcPack.png wcPack.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/tStand.png tStand.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/podGirl.png podGirl.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/madiThrow.png madiThrow.png
+cCpResource build/Distribution-iphonesimulator/GearCalc.app/gioSprint.png gioSprint.png
+cProcessPCH /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-gpmovoqmjsrcapbdhtusgneyhvzm/GearCalc_Prefix.pch.gch GearCalc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/main.o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalcAppDelegate.o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/FirstView.o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/SecondView.o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc normal i386
+cGenerateDSYMFile /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app.dSYM /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc
+cTouch /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.h
+c000000004D21696D0000000000000456
+t1294035309
+s1110
+i<UIKit/UIKit.h>
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m
+c000000004D2193E700000000000017EC
+t1294046183
+s6124
+i"FirstView.h"
+i"GearCalcAppDelegate.h"
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.h
+c000000004D2193E70000000000000242
+t1294046183
+s578
+i<UIKit/UIKit.h>
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m
+c000000004D2193E70000000000000C5D
+t1294046183
+s3165
+i"GearCalcAppDelegate.h"
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.h
+c000000004D2176BB000000000000046F
+t1294038715
+s1135
+i<UIKit/UIKit.h>
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m
+c000000004D2193E7000000000000151F
+t1294046183
+s5407
+i"SecondView.h"
+i"GearCalcAppDelegate.h"
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/DSC_0284-1.JPG
+c000000004D217B400000000000013FC3
+t1294039872
+s81859
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/FirstView.xib
+c000000004D5ECFE1000000000000A4E7
+t1298059233
+s42215
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/GearCalc_Prefix.pch
+c000000004D19373E00000000000000B9
+t1293498174
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/MainWindow.xib
+c000000004D2157C3000000000000726A
+t1294030787
+s29290
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/SecondView.xib
+c000000004D5ECFE6000000000000F057
+t1298059238
+s61527
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/blackdog.png
+c000000004D217DD4000000000000B3C1
+t1294040532
+s46017
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app
+t1313528766
+s782
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app.dSYM
+t1313528766
+s102
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/DSC_0284-1.JPG
+t1313528764
+s81859
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/FirstView.nib
+t1313528765
+s3110
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc
+t1313528766
+s40872
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/Info.plist
+t1313528764
+s688
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/MainWindow.nib
+t1313528765
+s1663
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/PkgInfo
+t1313528764
+s8
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/SecondView.nib
+t1313528765
+s4890
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/blackdog.png
+t1313528764
+s46017
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/gioSprint.png
+t1313528764
+s248773
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/gu_logo.png
+t1313528764
+s7477
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/icon114.png
+t1313528764
+s20077
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/icon57.png
+t1313528764
+s6353
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/icon72.png
+t1313528764
+s9395
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/madiThrow.png
+t1313528764
+s393125
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/mouse.png
+t1313528764
+s7668
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/parlee_logo.png
+t1313528764
+s8409
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/podGirl.png
+t1313528764
+s386091
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/podium.png
+t1313528764
+s497010
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/rudyProjectLogo.png
+t1313528764
+s15231
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/tStand.png
+t1313528764
+s394081
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/wcPack.png
+t1313528764
+s350078
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/FirstView.o
+t1313528766
+s69604
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalc.LinkFileList
+c000000004E4ADBBC0000000000000286
+t1313528764
+s646
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalcAppDelegate.o
+t1313528766
+s55820
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/SecondView.o
+t1313528766
+s70880
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/main.o
+t1313528766
+s6336
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/gioSprint.png
+c000000004D2CCF8F000000000003CBC5
+t1294782351
+s248773
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/gu_logo.png
+c000000004D16807E0000000000001D35
+t1293320318
+s7477
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/images/icon114.png
+c000000004D21833A0000000000004E6D
+t1294041914
+s20077
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/images/icon57.png
+c000000004D2183A300000000000018D1
+t1294042019
+s6353
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/images/icon72.png
+c000000004D21835F00000000000024B3
+t1294041951
+s9395
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/madiThrow.png
+c000000004D2CCF76000000000005FFA5
+t1294782326
+s393125
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/main.m
+c000000004D19373E0000000000000166
+t1293498174
+s358
+i<UIKit/UIKit.h>
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/mouse.png
+c000000004D1680C40000000000001DF4
+t1293320388
+s7668
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/parlee_logo.png
+c000000004D16817200000000000020D9
+t1293320562
+s8409
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/podGirl.png
+c000000004D2CCFBA000000000005E42B
+t1294782394
+s386091
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/podium.png
+c000000004D2180FC0000000000079572
+t1294041340
+s497010
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/rudyProjectLogo.png
+c000000004D16805C0000000000003B7F
+t1293320284
+s15231
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/tStand.png
+c000000004D2CCFCC0000000000060361
+t1294782412
+s394081
+
+N/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/wcPack.png
+c000000004D2CDC8B000000000005577E
+t1294785675
+s350078
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.h
+c000000004D21696D0000000000000456
+t1294035309
+s1110
+i<UIKit/UIKit.h>
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m
+c000000004D2193E700000000000017EC
+t1294046183
+s6124
+i"FirstView.h"
+i"GearCalcAppDelegate.h"
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.h
+c000000004D2193E70000000000000242
+t1294046183
+s578
+i<UIKit/UIKit.h>
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m
+c000000004D2193E70000000000000C5D
+t1294046183
+s3165
+i"GearCalcAppDelegate.h"
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.h
+c000000004D2176BB000000000000046F
+t1294038715
+s1135
+i<UIKit/UIKit.h>
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m
+c000000004D2193E7000000000000151F
+t1294046183
+s5407
+i"SecondView.h"
+i"GearCalcAppDelegate.h"
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/DSC_0284-1.JPG
+c000000004D217B400000000000013FC3
+t1294039872
+s81859
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/FirstView.xib
+c000000004D5ECFE1000000000000A4E7
+t1298059233
+s42215
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/GearCalc_Prefix.pch
+c000000004D19373E00000000000000B9
+t1293498174
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/MainWindow.xib
+c000000004D2157C3000000000000726A
+t1294030787
+s29290
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/SecondView.xib
+c000000004D5ECFE6000000000000F057
+t1298059238
+s61527
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/blackdog.png
+c000000004D217DD4000000000000B3C1
+t1294040532
+s46017
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app
+t1320174779
+s782
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app.dSYM
+t1320174779
+s102
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/DSC_0284-1.JPG
+t1313528764
+s81859
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/FirstView.nib
+t1313528765
+s3110
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc
+t1320174778
+s40928
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/Info.plist
+t1313528764
+s688
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/MainWindow.nib
+t1313528765
+s1663
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/PkgInfo
+t1313528764
+s8
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/SecondView.nib
+t1313528765
+s4890
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/blackdog.png
+t1313528764
+s46017
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/gioSprint.png
+t1313528764
+s248773
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/gu_logo.png
+t1313528764
+s7477
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/icon114.png
+t1313528764
+s20077
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/icon57.png
+t1313528764
+s6353
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/icon72.png
+t1313528764
+s9395
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/madiThrow.png
+t1313528764
+s393125
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/mouse.png
+t1313528764
+s7668
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/parlee_logo.png
+t1313528764
+s8409
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/podGirl.png
+t1313528764
+s386091
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/podium.png
+t1313528764
+s497010
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/rudyProjectLogo.png
+t1313528764
+s15231
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/tStand.png
+t1313528764
+s394081
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/wcPack.png
+t1313528764
+s350078
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/FirstView.o
+t1320174778
+s69620
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalc.LinkFileList
+c000000004EB044B800000000000002A2
+t1320174776
+s674
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalcAppDelegate.o
+t1320174778
+s55836
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/SecondView.o
+t1320174778
+s70896
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/main.o
+t1320174778
+s6352
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/gioSprint.png
+c000000004D2CCF8F000000000003CBC5
+t1294782351
+s248773
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/gu_logo.png
+c000000004D16807E0000000000001D35
+t1293320318
+s7477
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/images/icon114.png
+c000000004D21833A0000000000004E6D
+t1294041914
+s20077
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/images/icon57.png
+c000000004D2183A300000000000018D1
+t1294042019
+s6353
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/images/icon72.png
+c000000004D21835F00000000000024B3
+t1294041951
+s9395
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/madiThrow.png
+c000000004D2CCF76000000000005FFA5
+t1294782326
+s393125
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/main.m
+c000000004D19373E0000000000000166
+t1293498174
+s358
+i<UIKit/UIKit.h>
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/mouse.png
+c000000004D1680C40000000000001DF4
+t1293320388
+s7668
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/parlee_logo.png
+c000000004D16817200000000000020D9
+t1293320562
+s8409
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/podGirl.png
+c000000004D2CCFBA000000000005E42B
+t1294782394
+s386091
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/podium.png
+c000000004D2180FC0000000000079572
+t1294041340
+s497010
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/rudyProjectLogo.png
+c000000004D16805C0000000000003B7F
+t1293320284
+s15231
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/tStand.png
+c000000004D2CCFCC0000000000060361
+t1294782412
+s394081
+
+N/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/wcPack.png
+c000000004D2CDC8B000000000005577E
+t1294785675
+s350078
+
+N/var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-bwntgbouquzxerepuikgwrllehlg/GearCalc_Prefix.pch.gch
+t1313528766
+s15113424
+
+N/var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-gpmovoqmjsrcapbdhtusgneyhvzm/GearCalc_Prefix.pch.gch
+t1320174777
+s15113424
+
+NGearCalc-Info.plist
+c000000004D2CFEB70000000000000424
+t1294794423
+s1060
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341867576#341867576#0(0"0(0#1#0"28429277592551540#0"0#
+
+CCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/FirstView.o /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335221566.155768
+e335221566.438673
+r1
+xCompileC
+xbuild/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/FirstView.o
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m335221566#335221566#0(0"0(0#0#82"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m8611750784#2320"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-generated-files.hmap -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-own-target-headers.hmap -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-all-target-headers.hmap -iquote /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-project-headers.hmap -F/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/include -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources/i386 -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-bwntgbouquzxerepuikgwrllehlg/GearCalc_Prefix.pch -c /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m -o /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/FirstView.o0#
+
+CCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/FirstView.o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341867578.006415
+e341867578.435106
+r1
+xCompileC
+xbuild/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/FirstView.o
+x/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m341867578#341867578#0(0"0(0#0#89"/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m8606965184#2397"    cd /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-generated-files.hmap -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-own-target-headers.hmap -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-all-target-headers.hmap -iquote /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-project-headers.hmap -F/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/include -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources/i386 -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-gpmovoqmjsrcapbdhtusgneyhvzm/GearCalc_Prefix.pch -c /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/FirstView.m -o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/FirstView.o0#
+
+CCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalcAppDelegate.o /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335221566.154328
+e335221566.294815
+r1
+xCompileC
+xbuild/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalcAppDelegate.o
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m335221566#335221566#0(0"0(0#0#92"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m8612454592#2340"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-generated-files.hmap -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-own-target-headers.hmap -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-all-target-headers.hmap -iquote /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-project-headers.hmap -F/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/include -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources/i386 -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-bwntgbouquzxerepuikgwrllehlg/GearCalc_Prefix.pch -c /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m -o /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalcAppDelegate.o0#
+
+CCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalcAppDelegate.o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341867578.005039
+e341867578.427924
+r1
+xCompileC
+xbuild/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalcAppDelegate.o
+x/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m341867578#341867578#0(0"0(0#0#99"/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m8608553504#2417"    cd /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-generated-files.hmap -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-own-target-headers.hmap -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-all-target-headers.hmap -iquote /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-project-headers.hmap -F/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/include -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources/i386 -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-gpmovoqmjsrcapbdhtusgneyhvzm/GearCalc_Prefix.pch -c /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/GearCalcAppDelegate.m -o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalcAppDelegate.o0#
+
+CCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/SecondView.o /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335221566.157869
+e335221566.455525
+r1
+xCompileC
+xbuild/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/SecondView.o
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m335221566#335221566#0(0"0(0#0#83"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m8611489280#2322"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-generated-files.hmap -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-own-target-headers.hmap -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-all-target-headers.hmap -iquote /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-project-headers.hmap -F/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/include -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources/i386 -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-bwntgbouquzxerepuikgwrllehlg/GearCalc_Prefix.pch -c /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m -o /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/SecondView.o0#
+
+CCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/SecondView.o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341867578.008067
+e341867578.434819
+r1
+xCompileC
+xbuild/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/SecondView.o
+x/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m341867578#341867578#0(0"0(0#0#90"/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m8610125952#2399"    cd /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-generated-files.hmap -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-own-target-headers.hmap -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-all-target-headers.hmap -iquote /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-project-headers.hmap -F/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/include -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources/i386 -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-gpmovoqmjsrcapbdhtusgneyhvzm/GearCalc_Prefix.pch -c /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/Classes/SecondView.m -o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/SecondView.o0#
+
+CCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/main.o /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335221566.152617
+e335221566.231611
+r1
+xCompileC
+xbuild/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/main.o
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/main.m335221566#335221566#0(0"0(0#0#69"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/main.m8609442336#2302"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-generated-files.hmap -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-own-target-headers.hmap -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-all-target-headers.hmap -iquote /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-project-headers.hmap -F/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/include -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources/i386 -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-bwntgbouquzxerepuikgwrllehlg/GearCalc_Prefix.pch -c /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/main.m -o /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/main.o0#
+
+CCompileC build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/main.o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341867578.003382
+e341867578.396936
+r1
+xCompileC
+xbuild/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/main.o
+x/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/main.m341867578#341867578#0(0"0(0#0#76"/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/main.m8607024128#2379"    cd /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-generated-files.hmap -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-own-target-headers.hmap -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-all-target-headers.hmap -iquote /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-project-headers.hmap -F/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/include -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources/i386 -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-gpmovoqmjsrcapbdhtusgneyhvzm/GearCalc_Prefix.pch -c /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/main.m -o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/FirstView.xib
+s335221564.722429
+e335221565.314290
+r1
+xCompileXIB
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib335221564#335221565#0(0"0(0#0#76"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/FirstView.xib8610747360#648"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/FirstView.nib /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/MainWindow.xib
+s335221564.720813
+e335221565.250570
+r1
+xCompileXIB
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib335221564#335221565#0(0"0(0#0#77"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/MainWindow.xib8610847872#650"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/MainWindow.nib /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/SecondView.xib
+s335221564.721769
+e335221565.415942
+r1
+xCompileXIB
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib335221564#335221565#0(0"0(0#0#77"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/SecondView.xib8611437600#650"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/SecondView.nib /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/FirstView.xib
+r0
+
+CCompileXIB /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/MainWindow.xib
+r0
+
+CCompileXIB /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/SecondView.xib
+r0
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/DSC_0284-1.JPG DSC_0284-1.JPG
+s335221564.723186
+e335221564.857597
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/DSC_0284-1.JPG
+xDSC_0284-1.JPG
+lSLF07#2@19"Copy DSC_0284-1.JPG335221564#335221564#0(0"0(0#0#77"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/DSC_0284-1.JPG8611683968#573"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/DSC_0284-1.JPG /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/blackdog.png blackdog.png
+s335221564.727073
+e335221564.815767
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/blackdog.png
+xblackdog.png
+lSLF07#2@17"Copy blackdog.png335221564#335221564#0(0"0(0#0#75"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/blackdog.png8609321440#571"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/blackdog.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/gioSprint.png gioSprint.png
+s335221564.815885
+e335221564.881982
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/gioSprint.png
+xgioSprint.png
+lSLF07#2@18"Copy gioSprint.png335221564#335221564#0(0"0(0#0#76"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/gioSprint.png8606097856#572"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/gioSprint.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/gu_logo.png gu_logo.png
+s335221564.723948
+e335221564.754180
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/gu_logo.png
+xgu_logo.png
+lSLF07#2@16"Copy gu_logo.png335221564#335221564#0(0"0(0#0#74"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/gu_logo.png8610301888#570"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/gu_logo.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/icon114.png images/icon114.png
+s335221564.746119
+e335221564.791479
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/icon114.png
+ximages/icon114.png
+lSLF07#2@23"Copy images/icon114.png335221564#335221564#0(0"0(0#0#81"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/images/icon114.png8611585568#577"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/images/icon114.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/icon57.png images/icon57.png
+s335221564.761525
+e335221564.783145
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/icon57.png
+ximages/icon57.png
+lSLF07#2@22"Copy images/icon57.png335221564#335221564#0(0"0(0#0#80"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/images/icon57.png8611172352#576"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/images/icon57.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/icon72.png images/icon72.png
+s335221564.754316
+e335221564.784373
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/icon72.png
+ximages/icon72.png
+lSLF07#2@22"Copy images/icon72.png335221564#335221564#0(0"0(0#0#80"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/images/icon72.png8611380832#576"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/images/icon72.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/madiThrow.png madiThrow.png
+s335221564.791612
+e335221564.923865
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/madiThrow.png
+xmadiThrow.png
+lSLF07#2@18"Copy madiThrow.png335221564#335221564#0(0"0(0#0#76"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/madiThrow.png8608520096#572"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/madiThrow.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/mouse.png mouse.png
+s335221564.726303
+e335221564.768295
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/mouse.png
+xmouse.png
+lSLF07#2@14"Copy mouse.png335221564#335221564#0(0"0(0#0#72"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/mouse.png8610344160#568"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/mouse.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/parlee_logo.png parlee_logo.png
+s335221564.725540
+e335221564.745978
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/parlee_logo.png
+xparlee_logo.png
+lSLF07#2@20"Copy parlee_logo.png335221564#335221564#0(0"0(0#0#78"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/parlee_logo.png8610525504#574"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/parlee_logo.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/podGirl.png podGirl.png
+s335221564.784482
+e335221564.926030
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/podGirl.png
+xpodGirl.png
+lSLF07#2@16"Copy podGirl.png335221564#335221564#0(0"0(0#0#74"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/podGirl.png8609216064#570"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/podGirl.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/podium.png podium.png
+s335221564.727995
+e335221564.953782
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/podium.png
+xpodium.png
+lSLF07#2@15"Copy podium.png335221564#335221564#0(0"0(0#0#73"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/podium.png8609259360#569"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/podium.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/rudyProjectLogo.png rudyProjectLogo.png
+s335221564.724701
+e335221564.761388
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/rudyProjectLogo.png
+xrudyProjectLogo.png
+lSLF07#2@24"Copy rudyProjectLogo.png335221564#335221564#0(0"0(0#0#82"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/rudyProjectLogo.png8609793664#578"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/rudyProjectLogo.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/tStand.png tStand.png
+s335221564.783278
+e335221564.923027
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/tStand.png
+xtStand.png
+lSLF07#2@15"Copy tStand.png335221564#335221564#0(0"0(0#0#73"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/tStand.png8610550624#569"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/tStand.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CCpResource build/Distribution-iphonesimulator/GearCalc.app/wcPack.png wcPack.png
+s335221564.768431
+e335221564.919811
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/GearCalc.app/wcPack.png
+xwcPack.png
+lSLF07#2@15"Copy wcPack.png335221564#335221564#0(0"0(0#0#73"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/wcPack.png8610835232#569"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/wcPack.png /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CGenerateDSYMFile /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app.dSYM /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc
+s335221566.498605
+e335221566.518966
+r1
+xGenerateDSYMFile
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app.dSYM
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc
+lSLF07#2@126"GenerateDSYMFile build/Distribution-iphonesimulator/GearCalc.app.dSYM build/Distribution-iphonesimulator/GearCalc.app/GearCalc335221566#335221566#0(0"0(0#0#119"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc8610731808#472"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc -o /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app.dSYM0#
+
+CGenerateDSYMFile /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app.dSYM /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc
+s341867578.977335
+e341867579.073972
+r1
+xGenerateDSYMFile
+x/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app.dSYM
+x/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc
+lSLF07#2@126"GenerateDSYMFile build/Distribution-iphonesimulator/GearCalc.app.dSYM build/Distribution-iphonesimulator/GearCalc.app/GearCalc341867578#341867579#0(0"0(0#0#126"/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc8608443232#493"    cd /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc -o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app.dSYM0#
+
+CLd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc normal i386
+s335221566.455668
+e335221566.498496
+r1
+xLd
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc
+xnormal
+xi386
+lSLF07#2@124"Link /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc335221566#335221566#0(0"0(0#0#0"8610960544#1053"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -F/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -filelist /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalc.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc0#
+
+CLd /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc normal i386
+s341867578.435166
+e341867578.977236
+r1
+xLd
+x/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc
+xnormal
+xi386
+lSLF07#2@131"Link /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc341867578#341867578#0(0"0(0#0#0"8610421408#1088"    cd /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -F/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -filelist /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/Objects-normal/i386/GearCalc.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/GearCalc0#
+
+CProcessInfoPlistFile /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/Info.plist GearCalc-Info.plist
+s335221564.717156
+e335221564.720644
+r1
+xProcessInfoPlistFile
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/Info.plist
+xGearCalc-Info.plist
+lSLF07#2@27"Process GearCalc-Info.plist335221564#335221564#0(0"0(0#0#82"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/GearCalc-Info.plist8611832576#568"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GearCalc-Info.plist -genpkginfo /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app/Info.plist GearCalc-Info.plist
+r0
+
+CProcessPCH /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-bwntgbouquzxerepuikgwrllehlg/GearCalc_Prefix.pch.gch GearCalc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s335221565.416112
+e335221566.152455
+r1
+xProcessPCH
+x/var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-bwntgbouquzxerepuikgwrllehlg/GearCalc_Prefix.pch.gch
+xGearCalc_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile GearCalc_Prefix.pch335221565#335221566#0(0"0(0#0#82"/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/GearCalc_Prefix.pch8611124928#2162"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-generated-files.hmap -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-own-target-headers.hmap -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-all-target-headers.hmap -iquote /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-project-headers.hmap -F/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/include -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources/i386 -I/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/GearCalc_Prefix.pch -o /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-bwntgbouquzxerepuikgwrllehlg/GearCalc_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-gpmovoqmjsrcapbdhtusgneyhvzm/GearCalc_Prefix.pch.gch GearCalc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341867576.823247
+e341867578.003174
+r1
+xProcessPCH
+x/var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-gpmovoqmjsrcapbdhtusgneyhvzm/GearCalc_Prefix.pch.gch
+xGearCalc_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile GearCalc_Prefix.pch341867576#341867578#0(0"0(0#0#89"/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/GearCalc_Prefix.pch8316579995861807104#2232"    cd /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-generated-files.hmap -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-own-target-headers.hmap -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-all-target-headers.hmap -iquote /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/GearCalc-project-headers.hmap -F/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/include -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources/i386 -I/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/GearCalc.build/Distribution-iphonesimulator/GearCalc.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/GearCalc_Prefix.pch -o /var/folders/6L/6LYjcCxzFLGzqQkJrrXUmE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GearCalc_Prefix-gpmovoqmjsrcapbdhtusgneyhvzm/GearCalc_Prefix.pch.gch0#
+
+CTouch /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app
+s335221566.519057
+e335221566.522339
+r1
+xTouch
+x/Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app
+lSLF07#2@116"Touch /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app335221566#335221566#0(0"0(0#0#0"8610650592#334"    cd /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/giovannirey/Documents/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
+CTouch /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app
+s341867579.074135
+e341867579.095971
+r1
+xTouch
+x/Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app
+lSLF07#2@123"Touch /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app341867579#341867579#0(0"0(0#0#0"8607974432#348"    cd /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/giovannirey/Documents/p4work/XcodeProjects/MyProjects/GearCalc/build/Distribution-iphonesimulator/GearCalc.app0#
+
